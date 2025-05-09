@@ -40,6 +40,7 @@ Ouvrez un Pull Request (PR) en demandant la fusion de votre branche dans dev.
 Ajoutez un commentaire explicatif sur votre modèle dans la PR.
 
 7. Validation et Fusion
+#testestest
 Votre PR sera examinée et validée par l'enseignant avant d'être fusionnée dans la branche principale.
 
 
